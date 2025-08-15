@@ -26,10 +26,10 @@ txt. dosyasına kaydedilir.
 # Çalışma Mantığı
 1. **Başlangıç Aşaması**
    - 5 kez ölçüm alınır ve ortalama hesaplanır.
-   - Nem `< 63%` → Nem cihazı **tek tık** ile açılır.
-   - Nem `> 65%` → Nem cihazı **çift tık** ile kapatılır.
-   - Sıcaklık `< 35°C` → Fön açılır.
-   - Sıcaklık `> 40°C` → Fön kapatılır.
+   - Nem < 63% → Nem cihazı **tek tık** ile açılır.
+   - Nem > 65% → Nem cihazı **çift tık** ile kapatılır.
+   - Sıcaklık < 35°C → Fön açılır.
+   - Sıcaklık > 40°C → Fön kapatılır.
 
 2. **Sürekli Kontrol**
    - Her 1 saniyede sensör verileri güncellenir.
