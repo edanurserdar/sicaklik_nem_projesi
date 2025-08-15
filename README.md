@@ -4,7 +4,7 @@ Cihazların belli iklim koşullarında davranışlarının test edilmesi için g
 # DHT11 Sıcaklık ve Nem Kontrollü Cihaz Yönetimi
 Bu proje, iki adet DHT11 sıcaklık-nem sensöründen alınan verilerin ortalamasını kullanarak nemlendirici ve fön cihazını otomatik olarak kontrol eder.  
 Cihazlar belirlenen eşik değerlerine göre röle aracılığıyla açılıp kapatılır.
-Nem cihazı tek ve çift tıklama mantığıyla kontrol edilir (3 modlu cihaz olduğu için)
+Nem cihazı tek ve çift tıklama mantığıyla kontrol edilir (3 modlu cihaz olduğu için).
 Veriler USB kablo aracılığıyla Raspberry Pi 4'e aktarılarak seri ekrana yazdırılır.
 txt. dosyasına kaydedilir. 
 
